@@ -15,7 +15,9 @@
 
 <!-- Remplace ce bloc par une capture d'ensemble (cockpit principal ou panneau économie). -->
 <!-- Replace this block with a hero screenshot (main cockpit or economy panel). -->
-> 📸 *[Insère ici une capture d'écran "hero" du bot — le cockpit le plus impressionnant]*
+> 📸<img width="963" height="452" alt="image" src="https://github.com/user-attachments/assets/feaff224-420a-4ec9-bf15-15b49beb0eef" />
+
+*
 
 ---
 
@@ -79,6 +81,10 @@
 
 <!-- Ajoute tes captures ici. Une ligne par fonctionnalité, avec une légende. -->
 <!-- Add your screenshots here. One row per feature, with a caption. -->
+<img width="865" height="581" alt="image" src="https://github.com/user-attachments/assets/8b98fd5d-0405-4f08-bba5-5a50761a6d27" />
+<img width="922" height="369" alt="image" src="https://github.com/user-attachments/assets/cc44f976-6509-4ad3-8c40-4882142b7c59" />
+<img width="1008" height="882" alt="image" src="https://github.com/user-attachments/assets/0f06edae-7ba7-407c-b626-fe94eac63ca2" />
+
 
 | | |
 |---|---|
