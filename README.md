@@ -1,4 +1,4 @@
-<div align="center">
+<img width="822" height="505" alt="image" src="https://github.com/user-attachments/assets/c03043f8-d665-47c5-a676-b5ccf192ea6e" /><div align="center">
 
 # 🌍 GeoCountry
 
@@ -94,7 +94,7 @@
 | | |
 |---|---|
 | 🪖 *Opérations militaires / Military ops* | 🎛️ *Cockpit / Panels* |
-| *<img width="839" height="437" alt="image" src="https://github.com/user-attachments/assets/ee27a896-a437-491a-9ef1-445c1e592339" />*  | *<img width="809" height="614" alt="image" src="https://github.com/user-attachments/assets/fd2153dc-830b-4da8-ab01-83e7e5aed8be" />
+| <img width="822" height="505" alt="image" src="https://github.com/user-attachments/assets/2852a668-a308-4559-9355-7dae122d23c9" />* | *<img width="839" height="437" alt="image" src="https://github.com/user-attachments/assets/ee27a896-a437-491a-9ef1-445c1e592339" />*
 
 ---
 
