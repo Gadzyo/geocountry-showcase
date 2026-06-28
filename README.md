@@ -91,11 +91,12 @@
 | 💰 *Système économique / Economy* | 🔑 *Délégation / Delegation* |
 | *<img width="841" height="854" alt="image" src="https://github.com/user-attachments/assets/b597d3dc-da03-469a-8e84-1838874ae32f" />* | *<img width="826" height="436" alt="image" src="https://github.com/user-attachments/assets/800d2306-5185-4f07-8e58-f4856efa08a9" />
 
-* |
+| | |
+|---|---|
 | 🪖 *Opérations militaires / Military ops* | 🎛️ *Cockpit / Panels* |
 | *<img width="839" height="437" alt="image" src="https://github.com/user-attachments/assets/ee27a896-a437-491a-9ef1-445c1e592339" />
 | *<img width="809" height="614" alt="image" src="https://github.com/user-attachments/assets/fd2153dc-830b-4da8-ab01-83e7e5aed8be" />
-* |
+
 
 ---
 
