@@ -1,5 +1,3 @@
-<img width="822" height="505" alt="image" src="https://github.com/user-attachments/assets/c03043f8-d665-47c5-a676-b5ccf192ea6e" /><div align="center">
-
 # 🌍 GeoCountry
 
 ### Bot Discord de roleplay géopolitique — économie, diplomatie & opérations militaires
