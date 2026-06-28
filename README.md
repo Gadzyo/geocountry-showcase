@@ -89,9 +89,12 @@
 | | |
 |---|---|
 | 💰 *Système économique / Economy* | 🔑 *Délégation / Delegation* |
-| *[capture]* | *[capture]* |
+| *[capture]* | *<img width="841" height="854" alt="image" src="https://github.com/user-attachments/assets/b597d3dc-da03-469a-8e84-1838874ae32f" />
+* |
 | 🪖 *Opérations militaires / Military ops* | 🎛️ *Cockpit / Panels* |
-| *[capture]* | *[capture]* |
+| *<img width="839" height="437" alt="image" src="https://github.com/user-attachments/assets/ee27a896-a437-491a-9ef1-445c1e592339" />
+| *<img width="809" height="614" alt="image" src="https://github.com/user-attachments/assets/fd2153dc-830b-4da8-ab01-83e7e5aed8be" />
+* |
 
 ---
 
@@ -110,9 +113,9 @@
 
 ### 📬 Contact
 <!-- Remplace par tes vrais liens. / Replace with your real links. -->
-- **Discord** : `ton_pseudo`
+- **Discord** : `gadzyo`
 - **GitHub** : [Gadzyo](https://github.com/Gadzyo)
-- *(Fiverr / email / autre)*
+- *mail: gadzyo@gadzyo.dev*
 
 ---
 
