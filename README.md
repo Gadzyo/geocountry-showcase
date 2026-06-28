@@ -88,8 +88,8 @@
 
 | | |
 |---|---|
-| 💰 *Système économique / Economy* | 🔑 *Délégation / Delegation* |
-| *<img width="841" height="854" alt="image" src="https://github.com/user-attachments/assets/b597d3dc-da03-469a-8e84-1838874ae32f" />* | *<img width="826" height="436" alt="image" src="https://github.com/user-attachments/assets/800d2306-5185-4f07-8e58-f4856efa08a9" />
+| 💰 *Economy /Système économique | 🔑 *Délégation / Delegation* |
+* | *<img width="841" height="854" alt="image" src="https://github.com/user-attachments/assets/b597d3dc-da03-469a-8e84-1838874ae32f" />* | *<img width="826" height="436" alt="image" src="https://github.com/user-attachments/assets/800d2306-5185-4f07-8e58-f4856efa08a9" />
 
 | | |
 |---|---|
