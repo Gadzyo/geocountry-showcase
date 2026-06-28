@@ -80,13 +80,13 @@
 | | |
 |---|---|
 | 💰 Système économique interne | 🔑 *Délégation / Delegation* |
-| <img width="815" height="752" alt="image" src="https://github.com/user-attachments/assets/cf67fb5b-3a98-4a3e-b339-ae9a1a76337b" />* | <img width="822" height="443" alt="image" src="https://github.com/user-attachments/assets/70d4c7b3-c1f8-44bb-adba-ad0dfa6f507c" />
+| <img width="815" height="752" alt="image" src="https://github.com/user-attachments/assets/cf67fb5b-3a98-4a3e-b339-ae9a1a76337b" /> | <img width="822" height="443" alt="image" src="https://github.com/user-attachments/assets/70d4c7b3-c1f8-44bb-adba-ad0dfa6f507c" />
 
 
 | | |
 |---|---|
 | 🪖 *Opérations militaires / Military ops* | 🎛️ *Cockpit / Panels* |
-| <img width="822" height="505" alt="image" src="https://github.com/user-attachments/assets/2852a668-a308-4559-9355-7dae122d23c9" />* | *<img width="839" height="437" alt="image" src="https://github.com/user-attachments/assets/ee27a896-a437-491a-9ef1-445c1e592339" />
+| <img width="822" height="505" alt="image" src="https://github.com/user-attachments/assets/2852a668-a308-4559-9355-7dae122d23c9" /> | <img width="839" height="437" alt="image" src="https://github.com/user-attachments/assets/ee27a896-a437-491a-9ef1-445c1e592339" />
 
 ---
 
