@@ -13,12 +13,6 @@
 
 ---
 
-<!-- Remplace ce bloc par une capture d'ensemble (cockpit principal ou panneau économie). -->
-<!-- Replace this block with a hero screenshot (main cockpit or economy panel). -->
-> 📸<img width="963" height="452" alt="image" src="https://github.com/user-attachments/assets/feaff224-420a-4ec9-bf15-15b49beb0eef" />
-
-*
-
 ---
 
 ## 🇫🇷 Français
@@ -82,14 +76,14 @@
 <!-- Ajoute tes captures ici. Une ligne par fonctionnalité, avec une légende. -->
 <!-- Add your screenshots here. One row per feature, with a caption. -->
 <img width="865" height="581" alt="image" src="https://github.com/user-attachments/assets/8b98fd5d-0405-4f08-bba5-5a50761a6d27" />
-<img width="922" height="369" alt="image" src="https://github.com/user-attachments/assets/cc44f976-6509-4ad3-8c40-4882142b7c59" />
-<img width="1008" height="882" alt="image" src="https://github.com/user-attachments/assets/0f06edae-7ba7-407c-b626-fe94eac63ca2" />
+<img width="963" height="452" alt="image" src="https://github.com/user-attachments/assets/feaff224-420a-4ec9-bf15-15b49beb0eef" />
 
 
 | | |
 |---|---|
-| 💰 *Economy /Système économique | 🔑 *Délégation / Delegation* |
-* | *<img width="841" height="854" alt="image" src="https://github.com/user-attachments/assets/b597d3dc-da03-469a-8e84-1838874ae32f" />* | *<img width="826" height="436" alt="image" src="https://github.com/user-attachments/assets/800d2306-5185-4f07-8e58-f4856efa08a9" />
+| 💰 Système économique interne | 🔑 *Délégation / Delegation* |
+|  />* | *<img width="839" height="437" alt="image" src="https://github.com/user-attachments/assets/ee27a896-a437-491a-9ef1-445c1e592339" />* | *<img width="822" height="443" alt="image" src="https://github.com/user-attachments/assets/70d4c7b3-c1f8-44bb-adba-ad0dfa6f507c" />
+
 
 | | |
 |---|---|
